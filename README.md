@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://github.com/Clement-Salomon"> @Clement-Salomon </a>
 - 👀 I’m interested in research, development and AI. Mastering in NLP and LLMs, focusing on rhetoric
-- 🌱 I’m currently on my 4th year of learning computer science :>
+- 🌱 I’m currently on my 4th year of learning computer science :
   - 🏫 Currently Mastering at <a href="https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/computer-science-master-math-mmath">@University of Waterloo</a>, Computer Science - thesis option
   - 🏫 Studied 3 years at <a href="https://iut.univ-amu.fr/fr/formations/bachelor-universitaire-de-technologie/but-informatique/but-info-aix">@Aix en Provence IUT</a>
 - 📫 You can reach me on clementdepertuis@gmail.com
